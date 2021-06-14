@@ -1,0 +1,9 @@
+Example 1: Send an email from one person to another person
+This example sends an email message from one person to another person.
+
+The From, To, and Subject parameters are required by Send-MailMessage. This example uses the default $PSEmailServer variable for the SMTP server, so the SmtpServer parameter is not needed.
+
+PowerShell
+
+Copy
+Send-MailMessage -From 'User01 <user01@fabrikam.com>' -To 'User02 <user02@fabrikam.com>' -Subject 'Test mail'
