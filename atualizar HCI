@@ -1,0 +1,8 @@
+Atualização de firmwares e drivers dos servidores:
+https://www.dell.com/support/kbdoc/pt-br/000128194/atualizar-o-firmware-e-os-drivers-em-servidores-dell-emc-poweredge
+
+Atualização de firmware dos switches (nesse caso é importante seguir as recomendações do Release Notes incluso junto com as atualizações):
+https://www.dell.com/support/kbdoc/pt-br/000103012/dell-emc-networking-como-fazer-a-atualiza%C3%A7%C3%A3o-os10-on-a-switch-running-os10
+
+Atualização do Cluster HCI:
+https://docs.microsoft.com/pt-br/windows-server/storage/storage-spaces/maintain-servers
